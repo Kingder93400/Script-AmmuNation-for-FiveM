@@ -26,10 +26,10 @@ Bonjour, voici un simple ammunation pour ESX sous les librairies RageUI.
 N'hésitez pas à rejoindre mon discord développement : https://discord.gg/dhBuY7nDJA
 
 # Visuel 
-![alt tag](https://zupimages.net/viewer.php?id=22/04/0iwh.png)
+![alt tag](https://zupimages.net/up/22/04/0iwh.png)
 
 # Config
-![alt tag](https://zupimages.net/viewer.php?id=22/04/pd7p.png)
+![alt tag](https://zupimages.net/up/22/04/pd7p.png)
 
 
 # Crédits
